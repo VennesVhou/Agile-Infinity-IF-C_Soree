@@ -1,0 +1,19 @@
+sprint planing 
+membuat tampilan film
+
+sprint backlog
+
+1. user ingin melihat daftar/list movie
+solusi : menyimpan data movie ke dalam backend lalu menghubungkan ke frontend lalu menampilkannya
+2. user ingin melihat memesan tiket movie
+solusi : membuat button pesan tiket untuk user 
+3. user ingin melihat harga tiket
+solusi : menampilkan harga di bagian list
+4. user ingin mencari daftar/list movie
+solusi : menyediakan search bar 
+5. user ingin memilih bangku bioskop
+solusi : menyediakan sebuah map yang tersedia slot bangku yg kosong
+6. user ingin memilih metode pembayaran
+solusi : memberikan metode pembayaran yang banyak agar user dapat memilih salah satu yang dapat digunakan untuk melakukan transaksi 
+7. user ingin melihat tiket yang di pesan
+solusi : ketika tiket di pesan maka akan menuju path baru yang menampilkan tiket kepada user

@@ -1,0 +1,14 @@
+product backlog
+
+user ingin mendaftar ke website agar bisa memesan tiket untuk menonton di bioskop tanpa harus antri di receptions
+- halaman signup/login
+user ingin mengakses daftar movie dengan mudah dan memesannya
+- halaman menu
+- button pesan
+user ingin mencari daftar movie dengan mudah
+- search bar
+- fitur search by movie type, most watched, latest movie
+user ingin tau harga pesan tiket
+- menampilkan harga di bagian list
+user ingin memilih metode pembayaran
+- menampilkan list metode pembayaran 

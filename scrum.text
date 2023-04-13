@@ -1,0 +1,25 @@
+scrum 
+< Vennes > membuat design tampilan pada front end
+< Ivan > membuat design tampilan pada figma
+
+done ga bg? done
+- < Vennes > menyelesaikan tampilan halaman login dan signup
+- < Vennes > mengisi Database melalui xampp lalu menghubungkan ke dalam 
+backend
+
+to do
+- < Vennes > connecting backend to frontend
+- < Ivan > Styling
+- < Vennes > membuat route backend ke halaman page login,signup,menu
+
+problem
+- masalah styling seperti margin,padding
+- sedikit sulit dalam menentukan styling yang bagus untuk tampilan pada frontend
+- membuat metode pembayaran
+- membuat harga tiket pada list movie
+
+done ga bg? done
+- < Vennes > menyelesaikan fitur search bar,filter, dan pagination
+- < Vennes > menyelesaikan rute" pada backend
+- < Vennes > connect backend to frontend
+- < Ivan > menyelesaikan styling pada frontend
